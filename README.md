@@ -1,6 +1,6 @@
 # Web-Systems_Assignment-1
 Create an HTML page using only 50% width of the screen. Pay close attention to the difference in text styles as well as inline images while compiling this webpage. Your output should look like the image below:
-Images/image-1.png
+Images\image-1.png
 
 In the same HTML page as question 1, use the remaining 50% width on the right to complete this question. Pay close attention to the difference in text styles as well as inline images while compiling this webpage. Your output should look like the image below:
 Images\image-2.png
