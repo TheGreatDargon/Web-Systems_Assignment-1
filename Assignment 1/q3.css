@@ -1,6 +1,7 @@
 .top {
     border: 1px solid white;
     vertical-align: top;
+    align-content: center;
 }
 .navigation {
     display:inline-block;
