@@ -7,11 +7,6 @@ h2 {
 .about {
     size: 70%;
 }
-img {
-    position: absolute;
-    right: 0;
-    top: 80px;
-}
 table, tr, th, td {
     border: 1px solid black;
 }
