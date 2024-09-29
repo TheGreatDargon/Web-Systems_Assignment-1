@@ -1,14 +1,14 @@
 .top {
-    border: 1px solid black;
+    border: 1px solid white;
 }
 .navigation {
-    border: 1px solid black;
+    border: 1px solid white;
     display:inline-block;
     margin: 5px;
     width: 50%;
 }
 .content {
-    border: 1px solid black;
+    border: 1px solid white;
     display:inline-block;
     margin: 5px;
     width: 50%;
