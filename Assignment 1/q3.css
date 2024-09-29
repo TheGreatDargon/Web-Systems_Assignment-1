@@ -1,16 +1,16 @@
 .top {
-    border: 1px solid white;
+    border: 1px solid black;
     width: 100%;
 }
 .navigation {
     display:inline-block;
-    border: 1px solid white;
+    border: 1px solid black;
     width: 20%;
     background-color: yellow;
 }
 .content {
     display:inline-block;
-    border: 1px solid white;
+    border: 1px solid black;
     width: 80%;
 }
 section {
