@@ -8,18 +8,18 @@
 }
 .navigation {
     display:inline-block;
+    vertical-align: middle;
     border: 1px solid black;
     background-color: yellow;
     width: 20%;
-    height: 10%;
     white-space: normal;
     box-sizing: border-box;
 }
 .content {
     display:inline-block;
+    vertical-align: middle;
     border: 1px solid black;
     width: 80%;
-    height: 10%;
     white-space: normal;
     box-sizing: border-box;
 }
