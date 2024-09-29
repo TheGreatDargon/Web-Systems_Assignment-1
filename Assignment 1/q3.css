@@ -19,7 +19,6 @@
     display:inline-block;
     border: 1px solid black;
     width: 80%;
-    white-space: normal;
     box-sizing: border-box;
 }
 section {
