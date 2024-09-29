@@ -1,7 +1,6 @@
 .top {
     border: 1px solid black;
     background-image: url("/Images/binary.jpg");
-    background-color: #cccccc;
     width: 100%;
 }
 .navigation {
