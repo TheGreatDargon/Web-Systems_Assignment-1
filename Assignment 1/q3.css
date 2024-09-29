@@ -1,3 +1,11 @@
 .top {
-    border: 1px solid #2D97A4;
+    border: 1px solid black;
+}
+.navigation {
+    border: 1px solid black;
+    align-items: inline-block;
+}
+.content {
+    border: 1px solid black;
+    align-items: inline-block;
 }
