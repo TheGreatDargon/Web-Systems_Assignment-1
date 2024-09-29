@@ -7,13 +7,14 @@
     display:inline-block;
     border: 1px solid white;
     box-sizing: border-box;
-    white-space: nowrap;
     width: 30%;
 }
 .content {
     display:inline-block;
     border: 1px solid white;
     box-sizing: border-box;
-    white-space: nowrap;
     width: 70%;
+}
+section {
+    white-space: nowrap;
 }
