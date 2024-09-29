@@ -6,6 +6,7 @@
     display:inline-block;
     border: 1px solid white;
     width: 20%;
+    background-color: yellow;
 }
 .content {
     display:inline-block;
