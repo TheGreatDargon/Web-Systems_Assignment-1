@@ -3,9 +3,9 @@
 }
 .navigation {
     border: 1px solid black;
-    align-items: inline-block;
+    display:inline-block;
 }
 .content {
     border: 1px solid black;
-    align-items: inline-block;
+    display:inline-block;
 }
