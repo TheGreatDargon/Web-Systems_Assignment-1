@@ -7,8 +7,8 @@ h2 {
 .about {
     size: 70%;
 }
-.demon-slayer{
-    vertical-align: middle;
+img {
+    align-content: end;
 }
 table, tr, th, td {
     border: 1px solid black;
