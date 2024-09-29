@@ -5,13 +5,11 @@
 }
 .navigation {
     display:inline-block;
-    vertical-align: middle;
     border: 1px solid white;
     width: 30%;
 }
 .content {
     display:inline-block;
-    vertical-align: middle;
     border: 1px solid white;
     width: 70%;
 }
