@@ -4,3 +4,6 @@ h2 {
     height: 20px;
     width: 100%;
 }
+table, tr, th, td {
+    border: 1px solid black;
+}
