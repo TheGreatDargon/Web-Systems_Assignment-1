@@ -4,12 +4,12 @@
 .navigation {
     display:inline-block;
     border: 1px solid white;
-    width: 30%;
+    width: 20%;
 }
 .content {
     display:inline-block;
     border: 1px solid white;
-    width: 70%;
+    width: 80%;
 }
 section {
     white-space: nowrap;
