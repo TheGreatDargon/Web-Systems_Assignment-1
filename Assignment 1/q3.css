@@ -5,6 +5,7 @@
     background-size: cover;
     box-sizing: border-box;
     width: 100%;
+    color: white;
 }
 .navigation {
     display:inline-block;
