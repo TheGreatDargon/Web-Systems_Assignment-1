@@ -23,9 +23,6 @@
     white-space: normal;
     box-sizing: border-box;
 }
-p1 {
-    border: 1px solid black;
-}
 section {
     white-space: nowrap;
 }
