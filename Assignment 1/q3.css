@@ -1,18 +1,21 @@
 .top {
-    border: 1px solid black;
+    border: 1px solid white;
     width: 100%;
 }
 .navigation {
     display:inline-block;
-    border: 1px solid black;
+    border: 1px solid white;
     width: 20%;
     background-color: yellow;
 }
 .content {
     display:inline-block;
-    border: 1px solid black;
+    border: 1px solid white;
     width: 80%;
 }
 section {
     white-space: nowrap;
+}
+body {
+    background-color: black;
 }
