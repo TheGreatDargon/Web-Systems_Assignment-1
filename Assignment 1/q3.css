@@ -27,6 +27,10 @@ table, tr, td, th {
     border: 1px solid black;
     border-collapse: collapse;
 }
+table{
+    width: 100%;
+    height: 100%;
+}
 section {
     white-space: nowrap;
 }
