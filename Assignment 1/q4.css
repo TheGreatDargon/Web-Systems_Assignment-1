@@ -12,6 +12,9 @@ img {
     right: 0;
     top: 80px;
 }
+label {
+    margin: 2px;
+}
 table, tr, th, td {
     border: 1px solid black;
 }
