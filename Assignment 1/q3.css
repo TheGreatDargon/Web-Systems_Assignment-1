@@ -7,16 +7,15 @@
     border: 1px solid black;
     width: 20%;
     background-color: yellow;
+    white-space: normal;
     box-sizing: border-box;
 }
 .content {
     display:inline-block;
     border: 1px solid black;
     width: 80%;
-    box-sizing: border-box;
-}
-div {
     white-space: normal;
+    box-sizing: border-box;
 }
 section {
     white-space: nowrap;
