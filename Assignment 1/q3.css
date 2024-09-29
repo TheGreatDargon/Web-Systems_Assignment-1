@@ -9,9 +9,10 @@
 .navigation {
     display:inline-block;
     border: 1px solid black;
+    background-color: yellow;
     width: 20%;
     height: 10%;
-    background-color: yellow;
+    padding: 25%;
     white-space: normal;
     box-sizing: border-box;
 }
