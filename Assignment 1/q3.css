@@ -1,7 +1,5 @@
 .top {
     border: 1px solid white;
-    width: 100%;
-    vertical-align: top;
 }
 .navigation {
     display:inline-block;
