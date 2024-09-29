@@ -4,6 +4,9 @@ h2 {
     height: 20px;
     width: 100%;
 }
+.about {
+    size: 70%;
+}
 table, tr, th, td {
     border: 1px solid black;
 }
