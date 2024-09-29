@@ -3,6 +3,7 @@
     background-image: url("../Images/binary.jpg");
     background-origin: border-box;
     background-size: cover;
+    background-position: center;
     box-sizing: border-box;
     width: 100%;
     color: white;
