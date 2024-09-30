@@ -18,7 +18,7 @@ img {
 #major {
     margin-top: 2px;
 }
-#course {
+.course {
     color:blue;
 }
 table, tr, td {
