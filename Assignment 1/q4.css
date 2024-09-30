@@ -18,6 +18,9 @@ img {
 #major {
     margin-top: 2px;
 }
+#course {
+    color:blue;
+}
 table, tr, th, td {
     border: 1px solid black;
 }
